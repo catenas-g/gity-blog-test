@@ -1,0 +1,9 @@
+node_modules
+.vscode/*
+*.yml
+build
+dist
+*.local
+logs
+*.log
+.DS_Store

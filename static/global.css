@@ -1,0 +1,11 @@
+.sidebar header .site-avatar .site-logo {
+  width: 120px;
+  height: 40px;
+  border-radius: 0%;
+  box-shadow: none;
+}
+
+.sidebar header .site-avatar {
+  width: auto;
+  height: auto;
+}

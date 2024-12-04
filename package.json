@@ -1,0 +1,16 @@
+{
+  "name": "gity-tech-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hugo-extended": "^0.139.2",
+    "prettier": "^3.4.2"
+  }
+}
