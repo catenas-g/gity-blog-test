@@ -1,0 +1,23 @@
+<style>
+    /* Overwrite CSS variable */
+    :root {
+        font-family: "Noto Sans JP", serif;
+        --article-font-family: "Noto Sans JP", serif;
+        --base-font-family: "Noto Sans JP", serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+    }
+</style>
+
+<script>
+    ;(function () {
+        const customFont = document.createElement("link")
+        customFont.href =
+            "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap"
+
+        customFont.type = "text/css"
+        customFont.rel = "stylesheet"
+
+        document.head.appendChild(customFont)
+    })()
+</script>
