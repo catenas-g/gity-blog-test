@@ -6,7 +6,7 @@
   "scripts": {
    "build": "pnpm hugo build",
    "dev": "pnpm hugo server",
-   "new": "pnpm hugo new content \"post/$(date +\"%Y%m%d\" 2>/dev/null || date -u \"+%Y%m%d\")/index.md\""
+   "new": "pnpm hugo new content \"post/$(date +\"%Y%m%d\" 2>/dev/null || date -u \"+%Y%m%d\")/[TITLE].md\""
   },
   "keywords": [],
   "author": "",
