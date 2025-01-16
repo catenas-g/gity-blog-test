@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
    "build": "pnpm hugo build",
-   "dev": "pnpm hugo server"
+   "dev": "pnpm hugo server",
+   "new": "pnpm hugo new content \"post/$(date +\"%Y%m%d\" 2>/dev/null || date -u \"+%Y%m%d\")/index.md\""
   },
   "keywords": [],
   "author": "",

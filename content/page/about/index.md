@@ -3,7 +3,6 @@ title: GITYについて
 aliases:
   - about-us
   - about-gity
-license: CC BY-NC-ND
 menu:
     main: 
         weight: -40
