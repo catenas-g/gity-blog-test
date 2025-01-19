@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: GITY Tech Blog
+title: GITY Blog
 copyright: CATENAS inc.
 
 # Theme i18n support
@@ -41,7 +41,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        subtitle: GITYのエンジニアが知見や好きなことを語るブログ
+        subtitle: GITYメンバーが様々な知見や好きなことを語るブログです。技術的な話題や自身の専門分野についての記事を中心に、日々の生活や趣味についても書いていきます。
         avatar:
             enabled: true
             local: true

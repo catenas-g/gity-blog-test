@@ -5,6 +5,15 @@ slug: seedsn-tech
 date: 2025-01-16T22:40:28+09:00
 draft: false
 hidden: false
+categories:
+  - IT技術
+tags:
+  - Seedsn
+  - フロントエンド
+  - バックエンド
+  - Golang
+  - React
+  - Next.js
 ---
 
 こんにちは、GITYでSeedsnを開発している山田ハヤオです。SeedsnはGITYで進行しているプロジェクトや、
