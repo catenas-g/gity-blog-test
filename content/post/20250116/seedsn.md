@@ -14,8 +14,8 @@ tags:
   - Golang
   - React
   - Next.js
-params:
-  author: 山田ハヤオ
+authors: 
+  - 山田ハヤオ
 ---
 
 こんにちは、GITYでSeedsnを開発している山田ハヤオです。SeedsnはGITYで進行しているプロジェクトや、

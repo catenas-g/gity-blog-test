@@ -25,6 +25,11 @@ permalinks:
     post: /posts/:slug/
     page: /:slug/
 
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+
 params:
     mainSections:
         - post

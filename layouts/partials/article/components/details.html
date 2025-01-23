@@ -25,10 +25,12 @@
 
 
     <div class="article-meta">
-        {{ if .Params.author }}
+        {{ if .Params.authors }}
         <div class="article-author">
             {{ partial "helper/icon" "user" }}
-            <span>{{ .Params.author }}</span>
+            {{ range $author := .Params.authors }}
+                <span>{{ $author }}</span>
+            {{ end }}
         </div>
         {{ end }}
 
