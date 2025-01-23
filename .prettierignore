@@ -7,3 +7,4 @@ dist
 logs
 *.log
 .DS_Store
+layouts/_default
