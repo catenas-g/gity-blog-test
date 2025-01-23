@@ -1,11 +1,28 @@
 <style>
-    /* Overwrite CSS variable */
     :root {
         font-family: "Noto Sans JP", serif;
         --article-font-family: "Noto Sans JP", serif;
         --base-font-family: "Noto Sans JP", serif;
         font-optical-sizing: auto;
         font-style: normal;
+    }
+
+    .article-author {
+        display: inline-flex;
+        align-items: center;
+        gap: 15px;
+        color: var(--card-text-color-tertiary);
+        font-size: 14px;
+
+        svg {
+            width: 20px;
+            height: 20px;
+        }
+    }
+
+    .article-meta{
+      display: flex;
+      gap: 15px;
     }
 </style>
 
