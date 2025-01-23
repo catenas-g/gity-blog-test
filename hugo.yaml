@@ -110,7 +110,19 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main:
+        - identifier: home
+          name: ホーム
+          url: /
+          weight: -100
+          params:
+              icon: home
+        - identifier: catenas
+          name: CATENASについて
+          url: https://www.catenas.co.jp/
+          weight: 0
+          params:
+              icon: info-circle
 
     social:
         - identifier: github

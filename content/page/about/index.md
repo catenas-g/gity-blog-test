@@ -1,11 +1,12 @@
 ---
 title: GITYについて
+slug: about
 aliases:
   - about-us
   - about-gity
 menu:
     main: 
-        weight: -40
+        weight: -25
         params:
             icon: info-circle
 ---
@@ -22,6 +23,6 @@ GITYで実際に活動を行っている学生が、新しく学んだことを�
 
 システム開発や情報学のことだけでなく、教育分野やものづくり等の様々な経験を発信していきます。
 
-## GITYにいる方々へ
+## GITYをご利用の方へ
 
-GITYの利用者は誰でも記事を投稿できます。[プルリクエストを作成](https://github.com/sdmlaborg/gity-tech-blog)するか、Slackで山田ハヤオまでご連絡ください。
+GITYの利用者は誰でも記事を投稿できます。[記事の書き方](/how-to-write/)をご覧ください。
