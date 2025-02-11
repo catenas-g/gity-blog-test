@@ -29,7 +29,7 @@
         <div class="article-author">
             {{ partial "helper/icon" "user" }}
             {{ range $author := .Params.authors }}
-                <span>{{ $author }}</span>
+                <a href="/authors/{{ $author }}">{{ $author }}</a>
             {{ end }}
         </div>
         {{ end }}

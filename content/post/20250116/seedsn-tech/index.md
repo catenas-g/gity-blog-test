@@ -5,6 +5,7 @@ slug: seedsn-tech
 date: 2025-01-16T22:40:28+09:00
 draft: false
 hidden: false
+image: seedsn.png
 categories:
   - IT技術
 tags:

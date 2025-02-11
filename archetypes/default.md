@@ -3,12 +3,13 @@ title:
 description:
 slug:
 date: {{ .Date }}
+image:
 draft: true
 hidden: false
 categories:
   - IT技術
   - GITYコミュニティ
 tags:
-taxonomies:
-  author: 筆者名
+authors: 
+  - 筆者名
 ---
