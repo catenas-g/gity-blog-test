@@ -127,7 +127,7 @@ menu:
           url: https://www.catenas.co.jp/
           weight: 0
           params:
-              icon: info-circle
+              icon: building
 
     social:
         - identifier: github

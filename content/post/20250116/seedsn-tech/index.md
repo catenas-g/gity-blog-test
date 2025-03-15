@@ -10,6 +10,7 @@ categories:
   - IT技術
 tags:
   - Seedsn
+  - プログラミング
   - フロントエンド
   - バックエンド
   - Golang
