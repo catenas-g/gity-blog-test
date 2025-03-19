@@ -1,7 +1,7 @@
 ---
 title: 人工の海に執着する群馬県民の昏い情熱
 description: 皆から愛されるエビちゃんにIoT監視は不要で、むしろ水質測定や水換えなどをイベント化するほうが正しいという説もある。
-slug: ebi
+slug: iot-shrimp
 date: 2025-03-19T18:18:00+09:00
 draft: false
 hidden: false
