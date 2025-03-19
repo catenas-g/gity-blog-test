@@ -1,6 +1,6 @@
 ---
 title: GITYがHHKBのタッチ&トライスポットになりました
-description:
+description: あのHHKBがGITYでいつでもお試しできるようになりました。HHKB Studioもあります。
 slug: hhkb-touch-and-try-spot
 date: 2025-02-12T00:01:04+09:00
 draft: false
