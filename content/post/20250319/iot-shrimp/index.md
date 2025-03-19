@@ -7,10 +7,10 @@ draft: false
 hidden: false
 image: tank_naname.jpg
 categories:
-  - IoT
+  - IT技術
+tags:
   - 変
   - 農林水産
-tags:
   - バックエンド
   - RaspberryPi
   - ESP32
