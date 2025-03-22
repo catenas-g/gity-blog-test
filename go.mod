@@ -1,4 +1,4 @@
-module github.com/sdmlaborg/gity-tech-blog
+module github.com/catenas-g/gity-tech-blog
 
 go 1.23.3
 
