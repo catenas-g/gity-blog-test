@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "build": "pnpm hugo build",
-   "dev": "pnpm hugo server",
-   "new": "pnpm hugo new content \"post/$(date +\"%Y%m%d\" 2>/dev/null || date -u \"+%Y%m%d\")/[TITLE]/index.md\""
+    "build": "pnpm hugo build",
+    "dev": "pnpm hugo server",
+    "new": "pnpm hugo new content \"post/$(date +\"%Y%m%d\" 2>/dev/null || date -u \"+%Y%m%d\")/[TITLE]/index.md\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "hugo-extended": "^0.139.2",
-    "prettier": "^3.4.2"
+    "hugo-extended": "^0.145.0",
+    "npm-check-updates": "^17.1.16",
+    "prettier": "^3.5.3"
   }
 }
