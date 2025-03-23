@@ -1,7 +1,6 @@
 ---
 title: 東方Projectの音楽をSC-88ST Proで聴ける環境を構築した話
 description: 昔のゲームはMIDIで音楽を鳴らしていました。そういった音楽を当時の音源で聴こうとすると、実は大変なのです。
-slug: touhou-midi
 date: 2025-03-23T20:51:12+09:00
 image: playing-th06.png
 draft: false
@@ -14,6 +13,8 @@ tags:
   - 変
 authors: 
   - 山田ハヤオ
+aliases: 
+  - /posts/touhou-midi
 ---
 
 こんにちは、山田ハヤオです。

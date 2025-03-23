@@ -2,11 +2,12 @@
 title: "GITYブログはじめました"
 description: GITYの学生が各々の得意分野や勉強したことを発信していくブログを開設しました
 date: 2025-01-06T18:03:25+09:00
-slug: hello-world
 categories:
   - 告知
 authors: 
   - 山田ハヤオ
+aliases: 
+  - /posts/hello-world
 ---
 
 こんにちは、GITYで活動している学生の山田ハヤオです。

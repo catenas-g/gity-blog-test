@@ -1,7 +1,6 @@
 ---
 title: GITYがHHKBのタッチ&トライスポットになりました
 description: あのHHKBがGITYでいつでもお試しできるようになりました。HHKB Studioもあります。
-slug: hhkb-touch-and-try-spot
 date: 2025-02-12T00:01:04+09:00
 draft: false
 hidden: false
@@ -14,6 +13,9 @@ tags:
 authors: 
   - 山田ハヤオ
 image: hhkb.png
+aliases: 
+  - /posts/hhkb
+  - /posts/hhkb-touch-and-try-spot
 ---
 
 こんにちは。山田ハヤオです。

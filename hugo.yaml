@@ -22,7 +22,7 @@ pagination:
     pagerSize: 5
 
 permalinks:
-    post: /posts/:slug/
+    post: /posts/:year:month:day/:filename/
     page: /:slug/
 
 taxonomies:
