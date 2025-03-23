@@ -5,7 +5,7 @@ menu:
     main: 
         weight: 0
         params:
-            icon: pen
+            icon: pencil
 ---
 
 ## はじめに

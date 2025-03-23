@@ -132,7 +132,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/sdmlaborg
+          url: https://github.com/catenas-g
           params:
               icon: brand-github
 
