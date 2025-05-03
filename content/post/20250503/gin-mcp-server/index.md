@@ -2,7 +2,7 @@
 title: お前のバックエンドサーバーは20行でMCP Serverになる
 description: みんな大好きなフレームワークGinで構築されたAPIサーバーを僅か20行でMCP Serverに進化させます。
 date: 2025-05-03T02:26:19+09:00
-image:
+image: ai.png
 draft: false
 hidden: false
 categories:
