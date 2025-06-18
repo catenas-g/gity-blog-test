@@ -2,7 +2,7 @@
 title: 来たるべきAI地方幕府時代に向けて畑を耕す
 description: 衰退しつつある地方をAI技術を用いて再生し、さらに食料安全保障の一翼を担おうとする取り組みについて説明します。
 date: 2025-06-18T16:09:20+09:00
-image: IMG_1114.jpg
+image: thumb.jpg
 draft: false
 hidden: false
 categories:
