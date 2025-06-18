@@ -9,7 +9,7 @@ categories:
   - IT技術
 tags:
 authors: 
-  - 筆者名
+  - 山田ハヤオ
 ---
 
 世間の技術の話題といえばLLMでもちきりになってしまいました。QiitaやZennのトレンドはMCP ServerやLLMの話題で溢れかえっています。
