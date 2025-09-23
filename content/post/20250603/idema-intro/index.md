@@ -1,7 +1,7 @@
 ---
 title: 駄菓子屋ひびのば&次世代の塾Sociusで働く私のおしごと
 description: 今年2月から入社した私いでまのお仕事を紹介します。
-date: 2025-06-03T13:00:36+09:00
+date: '2025-06-03T04:00:36.000Z'
 image: me.jpg
 draft: false
 hidden: false
@@ -11,13 +11,14 @@ categories:
   - GITYコミュニティ
 tags:
   - 教育
-authors: 
+authors:
   - いでま
+slug: idema-intro
 ---
 
 ## 初めまして
 
-今年2月から株式会社CATENASで働いています。いでまです。よろしくお願いします！
+今年2月から株式会社CATENASで働いています。いでまです。よろしくお願いします！aa
 GITYで過ごす毎日が楽しくて仕方ないです＾＾
 
 ### 簡単に自己紹介
