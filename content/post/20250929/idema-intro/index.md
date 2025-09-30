@@ -1,7 +1,7 @@
 ---
 title: 駄菓子屋ひびのば&次世代の塾Sociusで働く私のおしごと
 description: 今年2月から入社した私いでまのお仕事を紹介します。
-date: '2025-09-30T10:07:03.779Z'
+date: '2025-09-29T10:07:00.000Z'
 draft: false
 hidden: false
 slug: idema-intro
@@ -13,7 +13,6 @@ tags:
   - 教育
 authors:
   - いでま
-image: me.jpg
 ---
 ## 初めましてaaa
 
